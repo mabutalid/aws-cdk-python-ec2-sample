@@ -2,8 +2,6 @@
 
 ### This project is initialize using "cdk init app --language python" command.
 
-This is a blank project for Python development with CDK.
-
 ## Navigation of the code
 
 1. app.py is the entry point
@@ -16,6 +14,8 @@ This is a blank project for Python development with CDK.
 3. dont forget pip install -r requirements.txt to install the dependecies
 
 ## Instructions given already when running the CDK init command
+
+This is a blank project for Python development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
